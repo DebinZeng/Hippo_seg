@@ -1,0 +1,136 @@
+Subject ID,Sex,DX Group,Age,Description,Imaging Protocol,Registration,magnetic field intensity
+002_S_0816,M,AD,71.5,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+002_S_0938,F,AD,82.3,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+003_S_1059,F,AD,84.6,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+003_S_1257,M,AD,85.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+005_S_0221,M,AD,67.5,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+005_S_1341,F,AD,71.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+009_S_1334,M,AD,64.9,HarP 135 final release 2015 <- MP RAGE,,AC-PC,1.5T
+011_S_0010,F,AD,74,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+011_S_0183,F,AD,72.5,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+013_S_0592,M,AD,78.2,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+016_S_0991,F,AD,86.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+016_S_1263,F,AD,64.9,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+020_S_0213,M,AD,63.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+031_S_1209,F,AD,74.2,HarP 135 final release 2015 <- MPRAGE_ASO,,AC-PC,1.5T
+098_S_0149,M,AD,87.8,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+100_S_1062,M,AD,84.4,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+123_S_0088,M,AD,65.7,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+123_S_0091,M,AD,63,HarP 135 final release 2015 <- ADNI       MPRAGEREPEAT,,AC-PC,1.5T
+123_S_0094,F,AD,71.3,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+123_S_0162,M,AD,72.6,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+126_S_0784,F,AD,76,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+127_S_0754,F,AD,67.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+003_S_0908,F,LMCI,63,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+003_S_1057,F,LMCI,61.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+003_S_1074,F,LMCI,85.2,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+003_S_1122,F,LMCI,76.8,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+007_S_0101,M,LMCI,73.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+009_S_1030,M,LMCI,67.6,HarP 135 final release 2015 <- MP RAGE,,AC-PC,1.5T
+100_S_0892,F,LMCI,75.9,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+123_S_0108,M,LMCI,78.4,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+123_S_1300,F,LMCI,73.6,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+002_S_0782,M,MCI,81.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+002_S_0954,F,MCI,71.1,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+005_S_0222,M,MCI,86,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+006_S_0322,M,MCI,65.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+007_S_0128,F,MCI,64.2,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+010_S_0422,M,MCI,64.9,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+011_S_0241,M,MCI,81.9,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+011_S_0856,M,MCI,60.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+013_S_0325,F,MCI,72.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+016_S_1092,M,MCI,74.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+029_S_1073,F,MCI,65.8,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+100_S_0006,F,MCI,83.9,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+100_S_0995,F,MCI,81,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+123_S_0050,M,MCI,77.7,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+123_S_0390,M,MCI,81.6,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+002_S_0295,M,Normal,84.9,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+002_S_0413,F,Normal,76.4,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+002_S_0685,F,Normal,89.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+003_S_0907,F,Normal,88.8,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+003_S_0931,F,Normal,86.2,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+009_S_0842,M,Normal,73.7,HarP 135 final release 2015 <- MP RAGE,,AC-PC,1.5T
+009_S_0862,F,Normal,73.5,HarP 135 final release 2015 <- MP RAGE,,AC-PC,1.5T
+010_S_0067,M,Normal,74.6,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+010_S_0419,M,Normal,70.3,HarP 135 final release 2015 <- ADNI       MPRAGE,,AC-PC,1.5T
+011_S_0002,M,Normal,74.5,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+011_S_0005,M,Normal,73.8,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+011_S_0016,M,Normal,65.5,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+013_S_1276,F,Normal,71.9,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+073_S_0089,M,Normal,65.2,HarP 135 final release 2015 <- MPRAGE,,AC-PC,1.5T
+098_S_0172,F,Normal,70.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+100_S_0015,M,Normal,84.4,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+100_S_0047,M,Normal,88.5,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+100_S_1286,F,Normal,77.8,HarP 135 final release 2015 <- ASO-MPRAGE,,AC-PC,1.5T
+123_S_0072,M,Normal,70.7,HarP 135 final release 2015 <- ADNI       MPRAGEREPEAT,,AC-PC,1.5T
+123_S_0106,F,Normal,73.3,HarP 135 final release 2015 <- ADNI       MPRAGEREPEAT,,AC-PC,1.5T
+127_S_0259,M,Normal,70.7,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+133_S_0525,F,Normal,70.1,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,1.5T
+003_S_4136,M,AD,66.8,HarP 135 final release 2015 <- Sag IR-SPGR,,AC-PC,3.0T
+003_S_4142,F,AD,89.7,HarP 135 final release 2015 <- Sag IR-SPGR,,AC-PC,3.0T
+006_S_4192,M,AD,82.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+007_S_1304,F,AD,75.4,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+012_S_0689,M,AD,65.7,HarP 135 final release 2015 <- MPRAGEadni,,AC-PC,3.0T
+018_S_4696,F,AD,73.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+019_S_4252,F,AD,87.2,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+019_S_4549,M,AD,79.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_0139,F,AD,66.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_0916,M,AD,81.8,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_1289,F,AD,78,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+027_S_1081,M,AD,85.7,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+027_S_1385,F,AD,71.6,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+067_S_0812,F,AD,72.3,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+067_S_1185,M,AD,62.7,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+067_S_1253,F,AD,63.3,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+082_S_1079,M,AD,78.7,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+094_S_4089,M,AD,74.3,HarP 135 final release 2015 <- Sag IR-SPGR,,AC-PC,3.0T
+126_S_0606,F,AD,69.1,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+127_S_0844,F,AD,85.5,HarP 135 final release 2015 <- MP-RAGE REPEAT,,AC-PC,3.0T
+130_S_0956,F,AD,66,HarP 135 final release 2015 <- MPRAGE SENSE,,AC-PC,3.0T
+130_S_4730,F,AD,81.2,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+131_S_0691,M,AD,65,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+002_S_0729,F,LMCI,68.3,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+002_S_1155,M,LMCI,63,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+005_S_0448,M,LMCI,86.3,HarP 135 final release 2015 <- MP-RAGE-REPEAT,,AC-PC,3.0T
+013_S_1186,M,LMCI,87.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_0331,F,LMCI,65.2,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_0376,M,LMCI,73.6,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+131_S_0384,M,LMCI,80,HarP 135 final release 2015 <- MP-RAGE REPEAT,,AC-PC,3.0T
+131_S_1389,M,LMCI,76.8,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+002_S_1070,M,MCI,75.8,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+012_S_1292,M,MCI,77.4,HarP 135 final release 2015 <- MPRAGEadni,,AC-PC,3.0T
+012_S_1321,M,MCI,84.3,HarP 135 final release 2015 <- MPRAGEadni,,AC-PC,3.0T
+016_S_0769,M,MCI,62.9,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+016_S_1138,M,MCI,68.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_0030,F,MCI,82.1,HarP 135 final release 2015 <- MPRAGE Repeat,,AC-PC,3.0T
+023_S_0604,M,MCI,87.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_1247,F,MCI,74.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+094_S_1293,M,MCI,78.2,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+126_S_1340,F,MCI,82.6,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+127_S_0393,F,MCI,86.8,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+127_S_0397,M,MCI,75.3,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+136_S_0429,M,MCI,64.8,HarP 135 final release 2015 <- MPRAGE 3dtfe,,AC-PC,3.0T
+136_S_0579,F,MCI,67.6,HarP 135 final release 2015 <- MPRAGE 3dtfe,,AC-PC,3.0T
+002_S_0559,M,Normal,82.5,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+002_S_1261,F,Normal,75.3,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+002_S_1280,F,Normal,75.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+002_S_4225,M,Normal,70,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+005_S_0602,M,Normal,72.1,HarP 135 final release 2015 <- MP-RAGE,,AC-PC,3.0T
+006_S_4449,F,Normal,67,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+007_S_4387,F,Normal,76.2,HarP 135 final release 2015 <- Sag IR-SPGR,,AC-PC,3.0T
+011_S_0021,F,Normal,77.7,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+013_S_4731,F,Normal,82.8,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+016_S_4121,M,Normal,89.6,HarP 135 final release 2015 <- Sag IR-SPGR,,AC-PC,3.0T
+018_S_0425,M,Normal,88,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+020_S_1288,M,Normal,61.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_0031,F,Normal,81,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+023_S_0061,F,Normal,80.3,HarP 135 final release 2015 <- MPRAGE Repeat,,AC-PC,3.0T
+029_S_4279,M,Normal,83.9,HarP 135 final release 2015 <- IR-SPGR,,AC-PC,3.0T
+029_S_4385,F,Normal,68.4,HarP 135 final release 2015 <- IR-SPGR,,AC-PC,3.0T
+032_S_0479,F,Normal,74.1,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+032_S_0677,M,Normal,71.2,HarP 135 final release 2015 <- MPRAGE Repeat,,AC-PC,3.0T
+037_S_0303,M,Normal,85.4,HarP 135 final release 2015 <- MPRAGE,,AC-PC,3.0T
+094_S_4460,F,Normal,67.2,HarP 135 final release 2015 <- Sag IR-SPGR,,AC-PC,3.0T
+127_S_0260,F,Normal,79.4,HarP 135 final release 2015 <- MP-RAGE REPEAT,,AC-PC,3.0T
+129_S_4369,M,Normal,68.4,HarP 135 final release 2015 <- IR-SPGR,,AC-PC,3.0T
